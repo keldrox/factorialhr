@@ -1,1 +1,13 @@
 
+{
+  "email": "xxxxx",
+  "password": "xxxxx",
+  "work": {
+    "start": "8:00",
+    "end": "14:00",
+    "minutes_variation": 0,
+    "resave": false,
+    "breaks": [
+    ]
+  }
+}
